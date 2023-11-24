@@ -1,0 +1,19 @@
+.resume-container {
+  flex: 1;
+  margin-right: 10px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+.info {
+  text-align: center;
+  font-weight: bold;
+  color: "#000";
+}

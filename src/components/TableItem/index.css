@@ -1,0 +1,17 @@
+.tableColumn {
+  padding: 10px 0;
+  text-align: left;
+  color: #000;
+}
+
+.category {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #ccc;
+}
+
+.value {
+  color: #ccc;
+}

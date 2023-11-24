@@ -1,0 +1,25 @@
+.header {
+  background-color: darkblue;
+  height: 150px;
+  text-align: center;
+}
+
+.headerText {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  padding-top: 30px;
+}
+
+.body {
+  margin: auto;
+  max-width: 980px;
+  margin-bottom: 50px;
+}
+
+.logout {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: darkblue;
+}
